@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
   <strong># dev_profile.py</strong>
 </p>
@@ -10,13 +8,13 @@
 
 <p align="left">
   class SobreMim(Desenvolvedora): <br>
-  ....def __init__(self): <br>
-  .......self.nome = "Leila Costa" <br>
-  .......self.formacao = "Estudante de ADS -- FATEC" <br>
-  .......self.trabalho = "Estagiária em desenvolvimento e suporte" <br>
-  .......self.empresa = "Empresa focada em softwares para micro e pequenos empreendedores" <br>
-  .......self.foco = "Backend com Python" <br>
-  .......self.status = "Estudando para certificação PCEP 🧠" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;def __init__(self): <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.nome = "Leila Costa" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.formacao = "Estudante de ADS -- FATEC" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.trabalho = "Estagiária em desenvolvimento e suporte" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.empresa = "Empresa focada em softwares para micro e pequenos empreendedores" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.foco = "Backend com Python" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.status = "Estudando para certificação PCEP 🧠" <br>
 </p>
 
 <p align="left">
