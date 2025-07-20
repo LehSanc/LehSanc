@@ -9,51 +9,51 @@
 </p>
 
 <p align="left">
-  class SobreMim(Desenvolvedora):
-    def __init__(self):
-        self.nome = "Leila Costa"
-        self.formacao = "Estudante de ADS -- FATEC"
-        self.trabalho = "Estagiária em desenvolvimento e suporte"
-        self.empresa = "Empresa focada em softwares para micro e pequenos empreendedores"
-        self.foco = "Backend com Python"
-        self.status = "Estudando para certificação PCEP 🧠"
+  class SobreMim(Desenvolvedora): <br>
+    def __init__(self): <br>
+        self.nome = "Leila Costa" <br>
+        self.formacao = "Estudante de ADS -- FATEC" <br>
+        self.trabalho = "Estagiária em desenvolvimento e suporte" <br>
+        self.empresa = "Empresa focada em softwares para micro e pequenos empreendedores" <br>
+        self.foco = "Backend com Python" <br>
+        self.status = "Estudando para certificação PCEP 🧠" <br>
 </p>
 
 <p align="left">
-  class Skills(Desenvolvedora):
-    def __init__(self):
-        self.linguagens = ["Python", "JavaScript"]
-        self.banco_de_dados = ["MariaDB"]
-        self.frameworks = ["Frappe", "ERPNext", "Django -- Em andamento"]
-        self.templating = ["Jinja"]
-        self.cms = ["WordPress"]
-        self.outros = ["Git", "Linux", "VS Code"]
+  class Skills(Desenvolvedora): <br>
+    def __init__(self): <br>
+        self.linguagens = ["Python", "JavaScript"] <br>
+        self.banco_de_dados = ["MariaDB"] <br>
+        self.frameworks = ["Frappe", "ERPNext", "Django -- Em andamento"] <br>
+        self.templating = ["Jinja"] <br>
+        self.cms = ["WordPress"] <br>
+        self.outros = ["Git", "Linux", "VS Code"] <br>
 </p>
 
 <p align="left">
-  class AprendizadoAtual(Desenvolvedora):
-    def __init__(self):
-        self.estudos = [
-            "Certificação PCEP (Python Institute)",
-            "Projetos com Django + Jinja",
-            "Boas práticas em backend"
-        ]
-        self.objetivos = [
-            "Contribuir com projetos open source",
-            "Aprender novas tecnologias"
-        ]
+  class AprendizadoAtual(Desenvolvedora): <br>
+    def __init__(self): <br>
+        self.estudos = [ <br>
+            "Certificação PCEP (Python Institute)", <br>
+            "Projetos com Django + Jinja", <br>
+            "Boas práticas em backend" <br>
+        ] <br>
+        self.objetivos = [ <br>
+            "Contribuir com projetos open source", <br>
+            "Aprender novas tecnologias" <br>
+        ] <br>
 </p>
 
 <p align="left">
-  if __name__ == "__main__":
-    dev = SobreMim()
-    skills = Skills()
-    estudos = AprendizadoAtual()
+  if __name__ == "__main__": <br>
+    dev = SobreMim() <br>
+    skills = Skills() <br>
+    estudos = AprendizadoAtual() <br>
 </p>
 
 <p align="left">
-    dev.say_hi()
-    print("🚀 Pronta para novos desafios!")
+    dev.say_hi() <br>
+    print("🚀 Pronta para novos desafios!") <br>
 </p>
 
 <p align="left">
