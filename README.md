@@ -10,13 +10,13 @@
 
 <p align="left">
   class SobreMim(Desenvolvedora): <br>
-    def __init__(self): <br>
-        self.nome = "Leila Costa" <br>
-        self.formacao = "Estudante de ADS -- FATEC" <br>
-        self.trabalho = "Estagiária em desenvolvimento e suporte" <br>
-        self.empresa = "Empresa focada em softwares para micro e pequenos empreendedores" <br>
-        self.foco = "Backend com Python" <br>
-        self.status = "Estudando para certificação PCEP 🧠" <br>
+  ....def __init__(self): <br>
+  .......self.nome = "Leila Costa" <br>
+  .......self.formacao = "Estudante de ADS -- FATEC" <br>
+  .......self.trabalho = "Estagiária em desenvolvimento e suporte" <br>
+  .......self.empresa = "Empresa focada em softwares para micro e pequenos empreendedores" <br>
+  .......self.foco = "Backend com Python" <br>
+  .......self.status = "Estudando para certificação PCEP 🧠" <br>
 </p>
 
 <p align="left">
