@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <p align="left"> 
   <strong># dev_profile.py</strong>
 </p>
@@ -19,39 +21,39 @@
 
 <p align="left">
   class Skills(Desenvolvedora): <br>
-    def __init__(self): <br>
-        self.linguagens = ["Python", "JavaScript"] <br>
-        self.banco_de_dados = ["MariaDB"] <br>
-        self.frameworks = ["Frappe", "ERPNext", "Django -- Em andamento"] <br>
-        self.templating = ["Jinja"] <br>
-        self.cms = ["WordPress"] <br>
-        self.outros = ["Git", "Linux", "VS Code"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;def __init__(self): <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.linguagens = ["Python", "JavaScript"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.banco_de_dados = ["MariaDB"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.frameworks = ["Frappe", "ERPNext", "Django -- Em andamento"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.templating = ["Jinja"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.cms = ["WordPress"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.outros = ["Git", "Linux", "VS Code"] <br>
 </p>
 
 <p align="left">
   class AprendizadoAtual(Desenvolvedora): <br>
-    def __init__(self): <br>
-        self.estudos = [ <br>
-            "Certificação PCEP (Python Institute)", <br>
-            "Projetos com Django + Jinja", <br>
-            "Boas práticas em backend" <br>
-        ] <br>
-        self.objetivos = [ <br>
-            "Contribuir com projetos open source", <br>
-            "Aprender novas tecnologias" <br>
-        ] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;def __init__(self): <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.estudos = [ <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Certificação PCEP (Python Institute)", <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Projetos com Django + Jinja", <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Boas práticas em backend" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.objetivos = [ <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Contribuir com projetos open source", <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Aprender novas tecnologias" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;] <br>
 </p>
 
 <p align="left">
-  if __name__ == "__main__": <br>
-    dev = SobreMim() <br>
-    skills = Skills() <br>
-    estudos = AprendizadoAtual() <br>
+if __name__ == "__main__": <br>
+&nbsp;&nbsp;&nbsp;&nbsp;dev = SobreMim() <br>
+&nbsp;&nbsp;&nbsp;&nbsp;skills = Skills() <br>
+&nbsp;&nbsp;&nbsp;&nbsp;estudos = AprendizadoAtual() <br>
 </p>
 
 <p align="left">
-    dev.say_hi() <br>
-    print("🚀 Pronta para novos desafios!") <br>
+&nbsp;&nbsp;&nbsp;&nbsp;dev.say_hi() <br>
+&nbsp;&nbsp;&nbsp;&nbsp;print("🚀 Pronta para novos desafios!") <br>
 </p>
 
 <p align="left">
