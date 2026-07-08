@@ -41,7 +41,7 @@ if __name__ == "__main__": <br>
 </p>
 
 <p align="left">
-  <a href="san.costa.leila@gmail.com" title="Gmail">
+  <a href="mailto:san.costa.leila@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/leila-sanchez-costa-8bb6a7249" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
@@ -50,7 +50,7 @@ if __name__ == "__main__": <br>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LehSanc/LehSanc/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LehSanc/LehSanc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LehSanc/LehSanc/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LehSanc/LehSanc/output/github-contribution-grid-snake.svg">
 </picture>
