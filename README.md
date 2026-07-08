@@ -12,43 +12,27 @@
   class SobreMim(Desenvolvedora): <br>
   &nbsp;&nbsp;&nbsp;&nbsp;def __init__(self): <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.nome = "Leila Costa" <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.formacao = "Estudante de ADS -- FATEC" <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.trabalho = "Estagiária em desenvolvimento e suporte" <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.empresa = "Empresa focada em softwares para micro e pequenos empreendedores" <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.foco = "Backend com Python" <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.status = "Estudando para certificação PCEP 🧠" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.formacao = "Graduada em ADS -- FATEC" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.trabalho = "Dev Full Stack" <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.foco = "Python" <br>
 </p>
 
 <p align="left">
   class Skills(Desenvolvedora): <br>
   &nbsp;&nbsp;&nbsp;&nbsp;def __init__(self): <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.linguagens = ["Python", "JavaScript"] <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.banco_de_dados = ["MariaDB"] <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.frameworks = ["Frappe", "ERPNext", "Django -- Em andamento"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.linguagens = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.banco_de_dados = ["MariaDB", "Postgree"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.frameworks = ["Frappe", "ERPNext", "Django", "Tailwind"] <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.templating = ["Jinja"] <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.cms = ["WordPress"] <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.outros = ["Git", "Linux", "VS Code"] <br>
-</p>
-
-<p align="left">
-  class AprendizadoAtual(Desenvolvedora): <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;def __init__(self): <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.estudos = [ <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Certificação PCEP (Python Institute)", <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Projetos com Django + Jinja", <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Boas práticas em backend" <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;] <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.objetivos = [ <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Contribuir com projetos open source", <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Aprender novas tecnologias" <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.library = ["React"] <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.runtime = ["Node.js"] <br>
 </p>
 
 <p align="left">
 if __name__ == "__main__": <br>
 &nbsp;&nbsp;&nbsp;&nbsp;dev = SobreMim() <br>
 &nbsp;&nbsp;&nbsp;&nbsp;skills = Skills() <br>
-&nbsp;&nbsp;&nbsp;&nbsp;estudos = AprendizadoAtual() <br>
 </p>
 
 <p align="left">
